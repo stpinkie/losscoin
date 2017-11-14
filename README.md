@@ -1,0 +1,2 @@
+# losscoin
+GitHub Pages
