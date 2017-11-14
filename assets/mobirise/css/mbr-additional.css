@@ -1,0 +1,20 @@
+#menu-3 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-3.mbr-navbar--stuck .mbr-navbar__section {
+  background: #efefef;
+}
+#menu-3 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#content5-8 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-8 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-8 .mbr-article {
+  color: #28324e;
+}
