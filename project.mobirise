@@ -253,7 +253,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "If you have the sudden urge to feel generous, donations are welcome.<br>ETH:&nbsp;0x982928e6c31d8c7c7be86eceaae7c7859bad5516<br>BTC:&nbsp;19Zwx5cM397oM8m8PJ278F9XcRecM19QuS",
+          "text": "If you have the sudden urge to feel generous, donations are welcome.<br>BTC:&nbsp;19Zwx5cM397oM8m8PJ278F9XcRecM19QuS<br>ETH:&nbsp;0x58261D6C29433fF8ce951687d3E21712BC9fa60D<br>",
           "_tags": [
             "Theme"
           ],
@@ -298,7 +298,7 @@
             "overlayOpacity": 0.2
           },
           "title": "GETTING LOSS",
-          "text": "<p>Losscoin works with all ERC20 wallets. To add Losscoin to wallets with support for custom tokens, you may be asked for the following information:</p><p>Token Contract: 0x8be191b2e888342b0392e093320a0d1d56c9fe1e<br>Symbol: LOSS<br>Decimals: 4</p>",
+          "text": "<p>Losscoin works with all ERC20-wallets. To add Losscoin to wallets with support for custom tokens, you may be asked for the following information:</p><p>Token Contract: 0x8be191b2e888342b0392e093320a0d1d56c9fe1e<br>Symbol: LOSS<br>Decimals: 4</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
